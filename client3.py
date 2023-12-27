@@ -28,6 +28,11 @@ QUERY = "http://localhost:8080/query?id={}"
 # 500 server request
 N = 500
 
+'''
+From: Prabhat Tiwari <prabhattiwari1999@icloud.com>
+Date: 26/12/2023
+Subject: Patch[1/4] Update getDataPoint
+'''
 
 def getDataPoint(quote):
     """ Produce all the needed values to generate a datapoint """
